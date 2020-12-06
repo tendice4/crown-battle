@@ -1,0 +1,1 @@
+give @s minecraft:golden_apple{display: {Name: '{"text":"不屈","color":"yellow"}', Lore: ['{"text":"少量の回復とシールドを得ると共に"}', '{"text":"移動速度上昇とノックバック耐性を得る"}']}} 1

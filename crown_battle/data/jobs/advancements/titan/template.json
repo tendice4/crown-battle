@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:air"
+    },
+    "frame": "task",
+    "title": "title",
+    "description": "desc",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "": {
+      "trigger": "consume_item",
+      "conditions": {
+        "item": {
+          "item": "apple"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "hoge"
+  }
+}

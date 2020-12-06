@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_apple"
+    },
+    "frame": "task",
+    "description": "picked up crown",
+    "title": "不屈",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "golden_apple": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:golden_apple"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "jobs:titan/ss_execute"
+  }
+}
