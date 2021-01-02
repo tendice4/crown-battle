@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:quartz_stairs"
+    },
+    "title": "previous map",
+    "description": "press item frame left arrow",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:item_frame",
+          "nbt": "{ItemRotation: 2b,Item: {id: \"minecraft:quartz_stairs\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "game:console/previous_map"
+  }
+}
