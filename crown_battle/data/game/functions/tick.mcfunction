@@ -1,0 +1,1 @@
+execute if score time system > #0 const run scoreboard players remove time system 1

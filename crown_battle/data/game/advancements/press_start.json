@@ -16,7 +16,12 @@
       "conditions": {
         "location": {
           "block": {
-            "tag": "minecraft:buttons"
+            "block": "minecraft:stone_button"
+          },
+          "position": {
+            "x": 0.5,
+            "y": 101.5,
+            "z": -35.5
           }
         }
       }
