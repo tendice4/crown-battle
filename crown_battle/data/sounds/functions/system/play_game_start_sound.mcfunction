@@ -1,1 +1,0 @@
-execute as @a at @s run playsound minecraft:entity.evoker.prepare_summon voice @a ~ ~ ~ 2 0.8 1

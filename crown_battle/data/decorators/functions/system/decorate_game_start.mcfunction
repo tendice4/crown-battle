@@ -1,0 +1,65 @@
+execute as @a at @s run playsound minecraft:entity.evoker.prepare_summon voice @a ~ ~ ~ 2 0.8 1
+title @a times 0 2 0
+
+schedule function decorators:system/game_start_titles/title_crown_battle_1 1t append
+schedule function decorators:system/game_start_titles/title_crown_battle_2 2t append
+schedule function decorators:system/game_start_titles/title_crown_battle_3 3t append
+schedule function decorators:system/game_start_titles/title_crown_battle_4 4t append
+schedule function decorators:system/game_start_titles/title_crown_battle_5 5t append
+schedule function decorators:system/game_start_titles/title_crown_battle_6 6t append
+schedule function decorators:system/game_start_titles/title_crown_battle_7 7t append
+schedule function decorators:system/game_start_titles/title_crown_battle_8 8t append
+schedule function decorators:system/game_start_titles/title_crown_battle_9 9t append
+schedule function decorators:system/game_start_titles/title_crown_battle_10 10t append
+schedule function decorators:system/game_start_titles/title_crown_battle_11 11t append
+schedule function decorators:system/game_start_titles/title_crown_battle_12 12t append
+schedule function decorators:system/game_start_titles/title_crown_battle_13 13t append
+schedule function decorators:system/game_start_titles/title_crown_battle_14 14t append
+schedule function decorators:system/game_start_titles/title_crown_battle_15 15t append
+schedule function decorators:system/game_start_titles/title_crown_battle_16 16t append
+schedule function decorators:system/game_start_titles/title_crown_battle_17 17t append
+schedule function decorators:system/game_start_titles/title_crown_battle_18 18t append
+schedule function decorators:system/game_start_titles/title_crown_battle_19 19t append
+schedule function decorators:system/game_start_titles/title_crown_battle_20 20t append
+
+schedule function decorators:system/game_start_titles/title_crown_battle_1 21t append
+schedule function decorators:system/game_start_titles/title_crown_battle_2 22t append
+schedule function decorators:system/game_start_titles/title_crown_battle_3 23t append
+schedule function decorators:system/game_start_titles/title_crown_battle_4 24t append
+schedule function decorators:system/game_start_titles/title_crown_battle_5 25t append
+schedule function decorators:system/game_start_titles/title_crown_battle_6 26t append
+schedule function decorators:system/game_start_titles/title_crown_battle_7 27t append
+schedule function decorators:system/game_start_titles/title_crown_battle_8 28t append
+schedule function decorators:system/game_start_titles/title_crown_battle_9 29t append
+schedule function decorators:system/game_start_titles/title_crown_battle_10 30t append
+schedule function decorators:system/game_start_titles/title_crown_battle_11 31t append
+schedule function decorators:system/game_start_titles/title_crown_battle_12 32t append
+schedule function decorators:system/game_start_titles/title_crown_battle_13 33t append
+schedule function decorators:system/game_start_titles/title_crown_battle_14 34t append
+schedule function decorators:system/game_start_titles/title_crown_battle_15 35t append
+schedule function decorators:system/game_start_titles/title_crown_battle_16 36t append
+schedule function decorators:system/game_start_titles/title_crown_battle_17 37t append
+schedule function decorators:system/game_start_titles/title_crown_battle_18 38t append
+schedule function decorators:system/game_start_titles/title_crown_battle_19 39t append
+schedule function decorators:system/game_start_titles/title_crown_battle_20 40t append
+
+schedule function decorators:system/game_start_titles/title_start_1 31t append
+schedule function decorators:system/game_start_titles/title_start_2 32t append
+schedule function decorators:system/game_start_titles/title_start_3 33t append
+schedule function decorators:system/game_start_titles/title_start_4 34t append
+schedule function decorators:system/game_start_titles/title_start_5 35t append
+schedule function decorators:system/game_start_titles/title_start_6 36t append
+schedule function decorators:system/game_start_titles/title_start_7 37t append
+schedule function decorators:system/game_start_titles/title_start_8 38t append
+schedule function decorators:system/game_start_titles/title_start_9 39t append
+schedule function decorators:system/game_start_titles/title_start_10 40t append
+schedule function decorators:system/game_start_titles/title_start_11 41t append
+schedule function decorators:system/game_start_titles/title_start_12 42t append
+schedule function decorators:system/game_start_titles/title_start_13 43t append
+schedule function decorators:system/game_start_titles/title_start_14 44t append
+schedule function decorators:system/game_start_titles/title_start_15 45t append
+schedule function decorators:system/game_start_titles/title_start_16 46t append
+schedule function decorators:system/game_start_titles/title_start_17 47t append
+schedule function decorators:system/game_start_titles/title_start_18 48t append
+schedule function decorators:system/game_start_titles/title_start_19 49t append
+schedule function decorators:system/game_start_titles/title_start_20 50t append
