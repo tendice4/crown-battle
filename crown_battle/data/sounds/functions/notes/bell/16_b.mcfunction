@@ -1,0 +1,1 @@
+playsound block.note_block.bell voice @a ~ ~ ~ 1 1.259921 1
