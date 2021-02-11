@@ -1,1 +1,1 @@
-function sounds:notes/bell/16_b
+function decorators:notes/bell/16_b
